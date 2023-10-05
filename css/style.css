@@ -145,7 +145,6 @@
     margin-top:60px;
 }
 .image-wraper{
-    display: flex;
     position: relative;
     display: inline-block;
     z-index: 1;
